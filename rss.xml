@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[butoh]]></title>
         <description><![CDATA[butoh]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/butoh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 06:02:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 07:40:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/butoh/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Text</p>]]></description>
-            <link>undefined04aea932-e100-49b8-acfa-12cfe5b53eb7/index.html</link>
+            <description><![CDATA[<p>Butoh  舞踏Butō</p>]]></description>
+            <link>https://thegrid.ai/butoh/04aea932-e100-49b8-acfa-12cfe5b53eb7/index.html</link>
             <guid isPermaLink="false">04aea932-e100-49b8-acfa-12cfe5b53eb7</guid>
-            <pubDate>Thu, 03 Mar 2016 06:02:35 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 07:40:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
