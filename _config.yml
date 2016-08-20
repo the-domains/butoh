@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/honzasvasek'
+    type: external
 favicon: null
 title: open butoh
 description: 'enjoy, copy, remix & S H A R E...'
