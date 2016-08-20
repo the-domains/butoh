@@ -28,6 +28,9 @@ navigation:
   - name: fb
     url: 'https://www.facebook.com/honzasvasek'
     type: external
+  - name: YouTube
+    url: 'https://www.youtube.com/channel/UCYYo8Y4JSoxdxRhY-zPgpqw'
+    type: external
 favicon: null
 title: open butoh research
 description: 'enjoy, copy, remix & S H A R E...'
