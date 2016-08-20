@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Facebook
+  - name: fb
     url: 'https://www.facebook.com/honzasvasek'
     type: external
 favicon: null
