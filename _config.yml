@@ -1,19 +1,4 @@
-name: butoh
-favicon: null
-layout_spectrum: 0.0210314376745373
 typography_spectrum: 0.3539031457621604
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.10198939172551036
   saturation: 0
   rhythmicContrast: 0.4586591268889606
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.0210314376745373
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: butoh
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Honza Svasek
 purpose: []
